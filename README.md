@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <h1>
   Hi There, I'm Jhojan Camilo Rodríguez Castañeda
