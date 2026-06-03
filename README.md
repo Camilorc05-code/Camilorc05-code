@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="35%">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1>
   Hi There, I'm Jhojan Camilo Rodríguez Castañeda
